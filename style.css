@@ -1,3 +1,26 @@
 ul.bglinks{
     background-color:gray;
 }
+a{
+    color:black;
+}
+
+#adpic{
+
+    box-shadow: 2px 2px 3px silver;
+    margin: 50px;
+    width:600px;
+}
+
+subheader{
+    margin: 20px;
+}
+
+#threeblock{
+    margin-left: 10px;
+}
+
+.mainbody{
+    max-width:85%;
+    margin:auto;
+}
